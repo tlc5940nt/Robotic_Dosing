@@ -11,3 +11,5 @@ TODO:
 * Impliment limit switches for homing both directions as well as total stroke length
 * Impliment plunger detect switch for easier insertion and removal of syringe
 * Cut down on stress plate size
+* Build a BOM for all non-printed parts
+* Choose a controller for OSSM integration
